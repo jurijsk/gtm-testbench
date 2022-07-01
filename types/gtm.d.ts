@@ -1,0 +1,1 @@
+declare var dataLayer: Array<Object>;

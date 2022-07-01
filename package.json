@@ -1,0 +1,25 @@
+{
+	"name": "gtm-testbench",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"private": true,
+	"scripts": {
+		"start": "http-server --cors -c-1 ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jurijsk/gtm-testbench.git"
+	},
+	"author": "Jurijs Kovzels @jkovzels",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/jurijsk/gtm-testbench/issues"
+	},
+	"homepage": "https://github.com/jurijsk/gtm-testbench#readme",
+	"devDependencies": {
+		"http-server": "^14.1.1",
+		"typescript": "^4.7.4"
+	},
+	"dependencies": {}
+}
